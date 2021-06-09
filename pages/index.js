@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Добро пожаловать в <a href="https://nextjs.org">Хогвартс!</a>
+          Добро пожаловать в Хогвартс!
         </h1>
         {
           allPosts.map(function(post) {
