@@ -10,7 +10,7 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div style="background-image: url('images/hog.jpg');">
+      <img src="/images/background.jpg" class="background" />
       <main className={styles.main}>
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
