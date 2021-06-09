@@ -24,9 +24,6 @@ export default function Home() {
           <a href="/" className={styles.card}>
             <h3>Wiki &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
-            <Link href="/">
-              <a>Back to home</a>
-            </Link>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
