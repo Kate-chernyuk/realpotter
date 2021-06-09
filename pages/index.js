@@ -20,6 +20,7 @@ export default function Home() {
             return (
               <a href={"/posts/" + post.slug} className={styles.card}>
                 <h2>{post.title}</h2>
+                <p>{post.slug}</p>
               </a>
             )
           })
