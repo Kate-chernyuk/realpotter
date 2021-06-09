@@ -1,0 +1,30 @@
+{
+  "posts" : [ 
+    {
+      "title": "Wiki",
+      "slug": "info",
+      "author": "Kate",
+      "content": "-"
+    },
+    {
+      "title": "Свободный форум",
+      "slug": "forum",
+      "author": "Kate",
+      "content": "-"
+    },
+    {
+      "title": "Фанклубы",
+      "slug": "fanclubs",
+      "author": "Kate",
+      "content": "-"
+    },
+    {
+      "title": "О нас",
+      "slug": "aboutus",
+      "author": "Kate",
+      "content": "-"
+    }
+  ]
+}
+  
+  
