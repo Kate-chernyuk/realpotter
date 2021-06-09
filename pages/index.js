@@ -21,6 +21,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
+            <Image
+              src="/me.png"
+              alt="Picture of the author"
+              width={500}
+              height={500}
+             />
             <h3>Wiki &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
