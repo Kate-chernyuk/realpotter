@@ -4,7 +4,7 @@
       "title": "Wiki",
       "slug": "info",
       "author": "Kate",
-      "content": "-"
+      "content": info.js
     },
     {
       "title": "Свободный форум",
