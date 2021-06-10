@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <input type='text' value='' name='txt1' id='txt1'> \n <input type='button' value='Отправить' onclick='addName()'> \n <div id='txt2'></div>"
+            "content": "Здесь вы можете обсудить персонажей \n <div class='chat'><div class='chat-messages'><div class='chat-messages__content' id='messages'></div></div><div class='chat-input'><form method='post' id='chat-form'><input type='text' id='message-text' class='chat-form__input' placeholder='Введите сообщение'> <input type='submit' class='chat-form__submit' value='=>'></form></div></div>"
         },
         {
             "title" : "Фанклубы",
