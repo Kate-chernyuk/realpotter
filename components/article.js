@@ -1,9 +1,13 @@
 import styles from '../styles/blog.module.css'
 
 export default function Article({children}) {
-  return(
-    <div className={styes.article}>
-        {children}
-    </div>
-   )
+
+    return(
+        <>
+            <div className={styles.article}>
+                {children}
+            </div>
+        </>
+
+    )
 }
