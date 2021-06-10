@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <input type='text' value='' name='txt1' id='txt1'> \n <input type='button' value='кнопка' onclick='butt();'> \n <div id='txt2'></div>"
+            "content": "Здесь вы можете обсудить персонажей \n <input type='text' value='' name='txt1' id='txt1'> \n <input type='button' value='Отправить' onclick='butt();'> \n <div id='txt2'>value</div>"
         },
         {
             "title" : "Фанклубы",
