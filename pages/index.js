@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
         </h1>
-        <img src="/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg" alt="Hogwarts" className={styles.background} />
+        <img src="/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg" alt="Hogwarts" className={styles.background}>
         {
           allPosts.map(function(post) {
             return (
@@ -24,6 +24,7 @@ export default function Home() {
             )
           })
         }
+      </img>
       </main>
       <footer className={styles.footer}>
         <a
