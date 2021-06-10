@@ -10,8 +10,8 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div style="background:url(/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg)">
       <main className={styles.main}>
+        <div style="background:url(./1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg)">
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
         </h1>
@@ -24,8 +24,8 @@ export default function Home() {
             )
           })
         }
-      </main>
       </div>
+      </main>
       <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
