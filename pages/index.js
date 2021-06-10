@@ -10,7 +10,7 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div style="background:url(./1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg)">
+      <div style="background:url(/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg)">
       <main className={styles.main}>
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
@@ -24,7 +24,7 @@ export default function Home() {
             )
           })
         }
-        </div>
+      </div>
       </main>
       <footer className={styles.footer}>
         <a
