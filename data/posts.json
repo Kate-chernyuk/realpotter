@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <textarea id='textArea' cols='50' rows='10'>Your text</textarea> \n <input id='but' type='button' value='Что в <textarea> ?'> \n document.getElementById('but').addEventListener('click',function(){alert(document.getElementById('textArea').value);},false);"
+            "content": "Здесь вы можете обсудить персонажей \n <form method='post'> \n <p><b>Поле ввода:</b></p> \n <p><textarea rows="10" cols="45" name="text"></textarea></p> \n <p><input type="submit" value="Отправить"></p> \n </form>"
         },
         {
             "title" : "Фанклубы",
