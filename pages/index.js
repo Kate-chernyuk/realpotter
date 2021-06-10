@@ -10,11 +10,11 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <img src="/public/hog.jpg" alt="Hogwarts" className={styles.background} />
       <main className={styles.main}>
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
         </h1>
+        <img src="/public/hog.jpg" alt="Hogwarts" className={styles.background} />
         {
           allPosts.map(function(post) {
             return (
