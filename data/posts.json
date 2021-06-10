@@ -16,7 +16,7 @@
             "title" : "Фанклубы",
             "slug": "fanclubs",
             "author": "Kate",
-            "content": "Здесь вы пожете полюбоваться на любимых персов. \n <img src='/vercel.svg' alt='Vercel Logo' className={styles.logo} />"
+            "content": "Здесь вы пожете полюбоваться на любимых персов. \n <img src='/b9c83c328bf183640fe258abfca665342cdc10a5r1-1000-1310v2_uhq.jpg' alt='Snape' className={styles.logo} />"
         }, 
         {
             "title" : "О нас",
