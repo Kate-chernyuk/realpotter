@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
         </h1>
-        <img src="/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg" alt="Hog" width='1500' height='800'  />
+        <img src="/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg" alt="Hog" width='1500' height='700'  />
         {
           allPosts.map(function(post) {
             return (
