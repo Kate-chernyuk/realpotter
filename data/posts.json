@@ -16,7 +16,7 @@
             "title" : "Фанклубы",
             "slug": "fanclubs",
             "author": "Kate",
-            "content": "Здесь вы пожете полюбоваться на любимых персов. \n <img src='/scale_1200.jpg' alt='Sirius' width='500' height='500' /> \n <img src='/0ae48f92bd2f9fb96b0125fb4682bcbc77533cb2r1-720-720v2_hq.jpg' alt='Lupin' width='500' height='500' /> \n <img src='/b9c83c328bf183640fe258abfca665342cdc10a5r1-1000-1310v2_uhq.jpg' alt='Snape' width='500' height='500' /> \n <img src='/7a2f6ac29a18e7d721893e219d6fb35f67faaa7br1-900-945v2_hq.jpg' alt='Hermione' width='500' height='500' />"
+            "content": "Здесь вы пожете полюбоваться на любимых персов. \n <img src='/scale_1200.jpg' alt='Sirius' width='500' height='500' /> \n <input name='guruweba_example_button' type='button' value='Лайкнуть статью' /> \n <img src='/0ae48f92bd2f9fb96b0125fb4682bcbc77533cb2r1-720-720v2_hq.jpg' alt='Lupin' width='500' height='500' /> \n <img src='/b9c83c328bf183640fe258abfca665342cdc10a5r1-1000-1310v2_uhq.jpg' alt='Snape' width='500' height='500' /> \n <img src='/7a2f6ac29a18e7d721893e219d6fb35f67faaa7br1-900-945v2_hq.jpg' alt='Hermione' width='500' height='500' />"
         }, 
         {
             "title" : "О нас",
