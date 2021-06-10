@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <input name='guruweba_example_text' type='text' /> \т <button type='submit' formtarget='newtarget.cgi'>Отправить</button>"
+            "content": "Здесь вы можете обсудить персонажей \n <input name='guruweba_example_text' type='text' /> \n <button type='submit' formtarget='newtarget.cgi'>Отправить</button>"
         },
         {
             "title" : "Фанклубы",
