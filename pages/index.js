@@ -10,10 +10,11 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main style="background-image:url('/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg')" className={styles.main}>
+      <main className={styles.main}>
         <h1 className={styles.title}>
           Добро пожаловать в Хогвартс!
         </h1>
+        <img src="/1056776-trees-painting-illustration-digital-art-birds-fantasy-art-architecture-rock-nature-snow-winter-castle-tower-fan-art-owl-Hogwarts-screenshot.jpg" alt="Hog" width='1800' height='600' />
         {
           allPosts.map(function(post) {
             return (
