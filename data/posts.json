@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <input name='guruweba_example_text' type='text' /> \n <input name='guruweba_example_submit' type='submit' value='Отправить' />
+            "content": "Здесь вы можете обсудить персонажей \n <input name='guruweba_example_text' type='text' /> \n <input name='guruweba_example_submit' type='submit' value='Отправить' />"
         },
         {
             "title" : "Фанклубы",
