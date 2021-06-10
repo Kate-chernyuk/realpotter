@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <form method='post'> \n <p><b>Поле ввода:</b></p> \n <p><textarea rows='10' cols='45' name='text'></textarea></p> \n <p><b>Голосовалка дня: Ваш любимый Мародёр (или Снейп)?</b><Br> \n <input type='radio' value='sb'>Сириус Блэк<Br> \n <input type='radio' value='ss'>Северус Снейп<Br> \n <input type='radio' value='rl'>Ремус Люпин<Br> \n <input type='radio' value='jp'>Джеймс Поттер<Br></p> \n <p><input type='submit' value='Отправить'></p> \n </form> "
+            "content": "Здесь вы можете обсудить персонажей \n <form method='post'> \n <p><b>Поле ввода:</b></p> \n <p><textarea rows='10' cols='45' name='text'></textarea></p> \n <p><b>Голосовалка дня: Ваш любимый Мародёр (или Снейп)?</b><Br> \n <input type='radio' name='pers' value='sb'>Сириус Блэк<Br> \n <input type='radio' name='pers' value='ss'>Северус Снейп<Br> \n <input type='radio' name='pers' value='rl'>Ремус Люпин<Br> \n <input type='radio' name='pers' value='jp'>Джеймс Поттер<Br></p> \n <p><input type='submit' value='Отправить'></p> \n </form> "
         },
         {
             "title" : "Фанклубы",
