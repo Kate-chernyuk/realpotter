@@ -6,7 +6,7 @@ import content from '../../data/posts.json'
 
 const Post = (post) => {
     const router = useRouter()
-    const {slug  = router.query
+    const {slug}  = router.query
 
     return (
         <Article>
