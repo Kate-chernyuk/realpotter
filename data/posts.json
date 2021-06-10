@@ -10,7 +10,7 @@
             "title": "Свободный форум",
             "slug": "forum",
             "author": "Kate",
-            "content": "Здесь вы можете обсудить персонажей \n <input name='guruweba_example_text' type='text' /> \n <input name='guruweba_example_submit' type='submit' value='Отправить' />"
+            "content": "Здесь вы можете обсудить персонажей \n <form action='textarea1.php' method='post'> \n <p><b>Поле ввода:</b></p> \n <p><textarea rows='10' cols='45' name='text'></textarea></p> \n <p><input type='submit' value='Отправить'></p> \n </form>"
         },
         {
             "title" : "Фанклубы",
